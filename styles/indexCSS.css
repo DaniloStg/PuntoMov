@@ -528,11 +528,11 @@ ul{
         color: wheat;
         text-shadow: 2px 2px 4px #576e6c;
     }
-    .imagenEstilo {
+/*     .imagenEstilo {
         border-radius: 4%;
         height: 230px;
         width: 200px;
-    }
+    } */
     #f1 {
         display: flex;
         justify-content: center;
@@ -653,11 +653,11 @@ ul{
         color: wheat;
         text-shadow: 2px 2px 4px #576e6c;
     }
-    .imagenEstilo {
+/*     .imagenEstilo {
         border-radius: 4%;
         height: 120px;
         width: 120px;
-    }
+    } */
     #h5Noticias {
         font-size: 15px;
         padding: 2%;
