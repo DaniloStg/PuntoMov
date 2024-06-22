@@ -1,0 +1,804 @@
+
+.custom-navbar{
+    background-color: transparent;
+    backdrop-filter: blur(1px);
+}
+.logo-img{
+    height: 50px;
+    width: auto;
+    filter: brightness(0.6); 
+}
+#menu{
+    color: white;
+}
+body{
+    background-color: #576e6c;
+}
+#cabecera{
+    background-image: url('../Practico entrega/Extras/side-male-performer-posing-mid-air-socks-jeans\(2\).webp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    overflow: hidden;
+}
+#introduccion{
+    padding: 8%;
+}
+#h4Primero{
+    margin-top: 5%;
+    color: rgb(114, 114, 114);
+}
+#h1Segundo{
+    margin-top: 5%;
+    color: rgb(70, 70, 70);
+}
+#pTercero{
+    font-size: 110%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    color: rgb(199, 199, 199);
+}
+hr{
+    margin-top: 3%;
+    width: 50%;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+}
+#principal{
+    border-image: fill 0 linear-gradient(black, #576e6c);
+    padding: 0;
+    margin: 0;
+    height: auto;
+    width: auto;
+}
+#secundarioPrincipal{
+    width: 100%;
+    height: 30%;
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+#imagensecun{
+    width: 90%;
+    height: 50%;
+    overflow: hidden;  
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 3% auto;
+    box-shadow: 3px 3px 13px 5px black;
+    border-radius: 50%;
+}
+#contimgSecundaria{
+    padding: 0% 3%;
+}
+#DescripcionCont{
+    background-color: rgb(186, 184, 184);
+    position: relative;
+    text-align: center;
+    box-shadow: 1px 1px 11px 3px rgb(92, 91, 91);
+    width: 85%;
+    margin: 30% auto 0 auto;
+    padding: 2% 0% .5% 0%;
+    border-radius: 20px;
+}
+#hh2{
+    color: #01594F; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300; 
+    font-size: 35px;
+}
+.rojo {
+    color: #01594F;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 300; 
+    font-size: 35px;
+}
+.mov{
+    color: #01594F; 
+}
+#p1{
+    font-family: nobile;
+    color: black;
+    font-size: 20px;
+}
+#p2{
+    padding: 0 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgba(67, 66, 66, 0.523);
+}
+#f1{
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+}
+.a{
+    box-shadow: 1px 1px 4px 3px black;
+    border: 2px solid rgb(206, 206, 206); 
+    border-radius: 5%; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;  
+ }
+.imagenEstilo{
+    border-radius: 4%;
+    height: 450px;
+    width: 300px;
+}
+#divisorNoticiasDelDia{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 7% 0 3% 0;
+    font-size: 25px;
+}
+#h5Noticias{
+    font-size: 25px;
+    padding: 2%;
+    color: wheat;
+    text-shadow: 2px 2px 4px  #576e6c;
+}
+#divisorClases{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 7%;
+    font-size: 25px;
+}
+#h5Estilo{
+    font-size: 25px;
+    padding: 1%;
+    color: wheat;
+    text-shadow: 2px 2px 4px  #576e6c;
+}
+#hr1 hr{
+    margin: 0 auto;
+    border-color: black; 
+    height: 3px; 
+    width: 60%;
+}  
+#h5ab{
+    padding: 1%;
+    font-size: 25px;
+    color: wheat;
+    text-shadow: 2px 2px 4px  #576e6c;
+}
+#fila1{
+    margin-top: 5%;
+}
+#fila2{
+    margin-top: 5% ;
+}
+
+#eslogan{
+    color: wheat;
+    text-shadow: 2px 2px 4px  #576e6c;
+    background-color: black;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 25px;
+}
+#h5Eslogan{
+    padding: 4%;
+}
+.carousel-item img {
+    max-width: 60%; 
+    max-height: 500px;  
+    height: auto; 
+    display: block; 
+    margin: auto
+}
+#informacionPie{
+    padding: 1%;
+    display: grid;
+    place-items: center;
+    font-size: 120%;
+}
+.contacto{
+    display: inline-block;
+}
+#pieDePagina{
+    color: white;
+    background-color: #2A2828;
+    margin-top: -8px;
+}
+#redes{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    font-size: 110%;
+}
+#instagram{
+    text-decoration: none;
+    color: rgb(208, 61, 208);
+}
+#whatsapp{
+    text-decoration: none;
+    color: green;
+}
+#facebook{
+    text-decoration: none;
+    color: rgb(0, 25, 254);
+}
+#youtube{
+    text-decoration: none;
+    color: red;
+}
+.redesLista{
+    display: inline-block;
+    margin: 1%;
+}
+#mapa{
+    margin: 0 auto;
+    padding: 1%;
+    display: grid;
+    place-items: center;
+}
+#mapa iframe{
+    width: 60%; 
+    height: 150px; 
+    border: 0;
+}
+#ubicacion{
+    margin: 1% 0;
+}
+#encontranos{
+    padding: 7%;
+}
+#h3encontranos{
+    color: wheat;
+    text-shadow: 2px 2px 4px  #576e6c;
+}
+#pencontranos{
+    color: black;
+    text-shadow: 2px 2px 4px  #576e6c;
+    font-size: 20px;
+}
+@media screen and (min-width: 768px) and (max-width: 990px) {
+    .imagenEstilo {
+        border-radius: 4%;
+        height: 320px;
+        width: 300px;
+    }
+    #DescripcionCont {
+        background-color: rgb(186, 184, 184);
+        position: relative;
+        text-align: center;
+        box-shadow: 1px 1px 11px 3px rgb(92, 91, 91);
+        width: 85%;
+        margin: 45% auto 0 auto;
+        padding: 2% 0% .5% 0%;
+        border-radius: 20px;
+    }
+    #hr1 hr {
+        margin-top: 3%;
+        width: 80%;
+        height: 2px;
+        background-color: rgb(255, 255, 255);
+    }
+    hr {
+        margin-top: 3%;
+        width: 70%;
+        height: 2px;
+        background-color: rgb(255, 255, 255);
+    }
+}
+@media screen and (min-width: 577px) and (max-width: 767px) {
+    #f1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 5%;
+    }
+    .imagenEstilo {
+        border-radius: 4%;
+        height: 250px;
+        width: 200px;
+    }
+    #DescripcionCont {
+        background-color: rgb(186, 184, 184);
+        position: relative;
+        text-align: center;
+        box-shadow: 1px 1px 11px 3px rgb(92, 91, 91);
+        width: 85%;
+        margin: 45% auto 0 auto;
+        padding: 2% 0% .5% 0%;
+        border-radius: 20px;
+    }
+    #pTercero {
+        font-size: 90%;
+        margin-top: 5%;
+        margin-bottom: 3%;
+        color: rgb(199, 199, 199);
+    }
+    hr {
+        margin-top: 3%;
+        width: 70%;
+        height: 2px;
+        background-color: rgb(255, 255, 255);
+    }
+    #informacionPie {
+        padding: 1%;
+        display: grid;
+        place-items: center;
+        font-size: 80%;
+    }
+}
+@media (max-width: 576px) {
+    #h4Primero {
+        margin-top: 5%;
+        color: rgb(114, 114, 114);
+        font-size: 100%;
+    }
+    #h1Segundo {
+        margin-top: 5%;
+        color: rgb(70, 70, 70);
+        font-size: 160%;
+    }
+    #pTercero {
+        color: black;
+        font-size: 90%;
+        margin-top: 10%;
+        margin-bottom: 3%;
+        color: rgb(199, 199, 199);
+    }
+    #DescripcionCont {
+        background-color: rgb(186, 184, 184);
+        position: relative;
+        text-align: center;
+        box-shadow: 1px 1px 11px 3px rgb(92, 91, 91);
+        width: 85%;
+        margin: 30% auto 0 auto;
+        padding: 2% 0% .5% 0%;
+        border-radius: 20px;
+    }
+    #imagensecun {
+        width: 90%;
+        height: 30%;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        margin: 3% auto;
+        box-shadow: 3px 3px 13px 5px black;
+        border-radius: 50%;
+    }
+    #hh2{
+        color: #01594F; 
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 300; 
+        font-size: 25px;
+    }
+    .rojo {
+        color: #01594F;
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 300; 
+        font-size: 25px;
+    }
+    .mov{
+        color: #01594F; 
+    }
+    #p1{
+        font-family: nobile;
+        color: black;
+        font-size: 14px;
+    }
+    #p2{
+        padding: 0 2%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        color: rgba(67, 66, 66, 0.523);
+    }
+    #h5Estilo {
+        font-size: 20px;
+        padding: 1%;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    #hr1 hr {
+        margin: 0 auto;
+        border-color: black;
+        height: 2px;
+        width: 60%;
+    }
+    #h5ab {
+        padding: 1%;
+        font-size: 20px;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    .imagenEstilo {
+        border-radius: 4%;
+        height: 180px;
+        width: 250px;
+    }
+    #h5Noticias {
+        font-size: 20px;
+        padding: 2%;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    #h5Eslogan {
+        padding: 4%;
+        font-size: 15px;
+    }
+    #informacionPie {
+        padding: 1%;
+        display: grid;
+        place-items: center;
+        font-size: 65%;
+    }
+    #fin{
+        font-size: 60%;
+    }
+}
+@media screen and (min-width: 425px) and (max-width: 575px)  {
+    #h4Primero {
+        margin-top: 5%;
+        color: rgb(114, 114, 114);
+        font-size: 80%;
+    }
+    #h1Segundo {
+        margin-top: 5%;
+        color: rgb(70, 70, 70);
+        font-size: 130%;
+    }
+    #pTercero {
+        color: black;
+        font-size: 70%;
+        margin-top: 5%;
+        margin-bottom: 3%;
+        color: rgb(199, 199, 199);
+    }
+    hr {
+        margin-top: 3%;
+        width: 70%;
+        height: 2px;
+        background-color: rgb(255, 255, 255);
+    }
+    #DescripcionCont {
+        background-color: rgb(186, 184, 184);
+        position: relative;
+        text-align: center;
+        box-shadow: 1px 1px 11px 3px rgb(92, 91, 91);
+        width: 85%;
+        margin: 30% auto 0 auto;
+        padding: 2% 0% .5% 0%;
+        border-radius: 20px;
+    }
+    #imagensecun {
+        width: 90%;
+        height: 30%;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        margin: 3% auto;
+        box-shadow: 3px 3px 13px 5px black;
+        border-radius: 50%;
+    }
+    #hh2{
+        color: #01594F; 
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 300; 
+        font-size: 25px;
+    }
+    .rojo {
+        color: #01594F;
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 300; 
+        font-size: 25px;
+    }
+    .mov{
+        color: #01594F; 
+    }
+    #p1{
+        font-family: nobile;
+        color: black;
+        font-size: 14px;
+    }
+    #p2{
+        padding: 0 2%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        color: rgba(67, 66, 66, 0.523);
+    }
+    #h5Estilo {
+        font-size: 20px;
+        padding: 1%;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    #hr1 hr {
+        margin: 0 auto;
+        border-color: black;
+        height: 2px;
+        width: 70%;
+    }
+    #h5ab {
+        padding: 1%;
+        font-size: 20px;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    .imagenEstilo {
+        border-radius: 4%;
+        height: 230px;
+        width: 200px;
+    }
+    #f1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 5%;
+    }
+    #h5Noticias {
+        font-size: 20px;
+        padding: 2%;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    #h5Eslogan {
+        padding: 4%;
+        font-size: 15px;
+    }
+    #informacionPie {
+        padding: 1%;
+        display: grid;
+        place-items: center;
+        font-size: 65%;
+    }
+    #fin{
+        font-size: 60%;
+    }
+}
+@media (max-width: 424px) {
+    .logo-img {
+        height: 30px;
+        width: auto;
+        filter: brightness(0.6);
+    }
+    #h4Primero {
+        margin-top: 5%;
+        color: rgb(114, 114, 114);
+        font-size: 70%;
+    }
+    #h1Segundo {
+        margin-top: 5%;
+        color: rgb(70, 70, 70);
+        font-size: 100%;
+    }
+    #pTercero {
+        font-size: 55%;
+        margin-top: 5%;
+        margin-bottom: 3%;
+        color: rgb(199, 199, 199);
+    }
+    hr {
+        margin-top: 3%;
+        width: 70%;
+        height: 2px;
+        background-color: rgb(255, 255, 255);
+    }
+    #DescripcionCont {
+        background-color: rgb(186, 184, 184);
+        position: relative;
+        text-align: center;
+        box-shadow: 1px 1px 11px 3px rgb(92, 91, 91);
+        width: 85%;
+        margin: 30% auto 0 auto;
+        padding: 2% 0% .5% 0%;
+        border-radius: 20px;
+    }
+    #imagensecun {
+        width: 90%;
+        height: 30%;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        margin: 3% auto;
+        box-shadow: 3px 3px 13px 5px black;
+        border-radius: 50%;
+    }
+    #hh2{
+        color: #01594F; 
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 300; 
+        font-size: 17px;
+    }
+    .rojo {
+        color: #01594F;
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 300; 
+        font-size: 17px;
+    }
+    .mov{
+        color: #01594F; 
+    }
+    #p1{
+        font-family: nobile;
+        color: black;
+        font-size: 10px;
+    }
+    #p2{
+        padding: 0 2%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: rgba(67, 66, 66, 0.523);
+    }
+    #h5Estilo {
+        font-size: 15px;
+        padding: 1%;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    #hr1 hr {
+        margin: 0 auto;
+        border-color: black;
+        height: 2px;
+        width: 70%;
+    }
+    #h5ab {
+        padding: 1%;
+        font-size: 15px;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    .imagenEstilo {
+        border-radius: 4%;
+        height: 120px;
+        width: 120px;
+    }
+    #h5Noticias {
+        font-size: 15px;
+        padding: 2%;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    #h5Eslogan {
+        padding: 4%;
+        font-size: 12px;
+    }
+    #informacionPie {
+        padding: 1%;
+        display: grid;
+        place-items: center;
+        font-size: 65%;
+    }
+    #fin{
+        font-size: 60%;
+    }
+    #f1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 5%;
+    }
+}
+@media (max-width: 375px) {
+    #f1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 5%;
+    }
+    .logo-img {
+        height: 30px;
+        width: auto;
+        filter: brightness(0.6);
+    }
+    #h4Primero {
+        margin-top: 5%;
+        color: rgb(114, 114, 114);
+        font-size: 60%;
+    }
+    #h1Segundo {
+        margin-top: 5%;
+        color: rgb(70, 70, 70);
+        font-size: 100%;
+    }
+    #pTercero {
+        font-size: 50%;
+        margin-top: 5%;
+        margin-bottom: 3%;
+        color: rgb(199, 199, 199);
+    }
+    #DescripcionCont {
+        background-color: rgb(186, 184, 184);
+        position: relative;
+        text-align: center;
+        box-shadow: 1px 1px 11px 3px rgb(92, 91, 91);
+        width: 85%;
+        margin: 38% auto 0 auto;
+        padding: 2% 0% .5% 0%;
+        border-radius: 20px;
+    }
+    #imagensecun {
+        width: 90%;
+        height: 30%;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        margin: 3% auto;
+        box-shadow: 3px 3px 13px 5px black;
+        border-radius: 50%;
+    }
+    #hh2{
+        color: #01594F; 
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 300; 
+        font-size: 17px;
+    }
+    .rojo {
+        color: #01594F;
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 300; 
+        font-size: 17px;
+    }
+    .mov{
+        color: #01594F; 
+    }
+    #p1{
+        font-family: nobile;
+        color: black;
+        font-size: 10px;
+    }
+    #p2{
+        padding: 0 2%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: rgba(67, 66, 66, 0.523);
+    }
+    #h5Estilo {
+        font-size: 15px;
+        padding: 1%;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    #hr1 hr {
+        margin: 0 auto;
+        border-color: black;
+        height: 2px;
+        width: 70%;
+    }
+    #h5ab {
+        padding: 1%;
+        font-size: 15px;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    .imagenEstilo {
+        border-radius: 4%;
+        height: 120px;
+        width: 120px;
+    }
+    #h5Noticias {
+        font-size: 15px;
+        padding: 2%;
+        color: wheat;
+        text-shadow: 2px 2px 4px #576e6c;
+    }
+    #h5Eslogan {
+        padding: 4%;
+        font-size: 12px;
+    }
+    #informacionPie {
+        padding: 1%;
+        display: grid;
+        place-items: center;
+        font-size: 65%;
+    }
+    #fin{
+        font-size: 60%;
+    }
+}
