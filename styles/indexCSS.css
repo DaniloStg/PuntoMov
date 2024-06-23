@@ -15,7 +15,6 @@ body{
     background-color: #576e6c;
 }
 #cabecera{
-/*     background-image: url('img/side-male-performer-posing-mid-air-socks-jeans_2_.jpg');       */
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
@@ -117,8 +116,8 @@ hr{
     margin-top: 2%;
 }
 .contenedorimagenEstilo{
-    box-shadow: 1px 1px 4px 3px black;
-    border: 2px solid rgb(206, 206, 206); 
+    box-shadow: 15px 15px 30px rgb(25, 25, 25),
+    -15px -15px 30px rgb(60, 60, 60);
     border-radius: 5%; 
     display: flex; 
     justify-content: center; 
