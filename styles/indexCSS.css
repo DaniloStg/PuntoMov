@@ -113,7 +113,8 @@ hr{
 #f1{
     display: flex;
     justify-content: center; 
-    align-items: center;  
+    align-items: center;
+    margin-top: 2%;
 }
 .a{
     box-shadow: 1px 1px 4px 3px black;
@@ -166,13 +167,6 @@ hr{
     color: wheat;
     text-shadow: 2px 2px 4px  #576e6c;
 }
-#fila1{
-    margin-top: 5%;
-}
-#fila2{
-    margin-top: 5% ;
-}
-
 #eslogan{
     color: wheat;
     text-shadow: 2px 2px 4px  #576e6c;
