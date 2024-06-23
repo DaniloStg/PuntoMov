@@ -116,7 +116,7 @@ hr{
     align-items: center;
     margin-top: 2%;
 }
-.a{
+.contenedorimagenEstilo{
     box-shadow: 1px 1px 4px 3px black;
     border: 2px solid rgb(206, 206, 206); 
     border-radius: 5%; 
@@ -126,7 +126,7 @@ hr{
  }
 .imagenEstilo{
     border-radius: 4%;
-    height: 450px;
+    height: 370px;
     width: 300px;
 }
 #divisorNoticiasDelDia{
