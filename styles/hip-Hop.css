@@ -120,10 +120,6 @@
     color: rgb(199, 198, 198);
     text-shadow: 2px 2px 4px  #3b6198;
 }
-.liPresencial, .liVirtual{
-    display: inline-block;
-    margin: 2% 5% 0 5%;
-}
 #profesores{
     margin: 3% 0;
     text-align: center;
