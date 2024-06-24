@@ -1,0 +1,73 @@
+.custom-navbar{
+    border-image: fill 0 linear-gradient(black, #534c4c);
+}
+.logo-img{
+    height: 50px;
+    width: auto;
+    filter: brightness(0.6); 
+}
+label{
+    color: white;
+}
+#menu{
+    color: white;  
+}
+body{
+    background-color: rgb(60, 53, 53);
+}
+.informacion{
+    margin-top: 2%;
+}
+h3{
+    margin-top: 2%;
+    color: white;
+}
+hr{
+    margin-top: 2%;
+    color: white;  
+}
+#botonEnviar{
+    background-color: #534c4c;
+    border: none;
+    margin: 1% 0 3% 0;
+}
+#informacionPie{
+    padding: 1%;
+    display: grid;
+    place-items: center;
+    font-size: 120%;
+}
+.contacto{
+    display: inline-block;
+}
+#pieDePagina{
+    color: white;
+    background-color: #2A2828;
+}
+#redes{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    font-size: 110%;
+}
+#instagram{
+    text-decoration: none;
+    color: rgb(208, 61, 208);
+}
+#whatsapp{
+    text-decoration: none;
+    color: green;
+}
+#facebook{
+    text-decoration: none;
+    color: rgb(0, 25, 254);
+}
+#youtube{
+    text-decoration: none;
+    color: red;
+}
+.redesLista{
+    display: inline-block;
+    margin: 1%;
+}
