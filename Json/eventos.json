@@ -1,0 +1,154 @@
+{
+    "eventos": [
+      {
+        "nombre": "CUÁL FUE? VOL I",
+        "descripcion": "Aprende a moverte con confianza y estilo.",
+        "fecha": "2024-03-03",
+        "hora": "16:00",
+        "estilo_de_baile": "Hip Hop",
+        "direccion": "Balcarce 1226",
+        "edad_de_participantes": "Adultos",
+        "imagen": "img/evento12.jpg"
+      },
+      {
+        "nombre": "HYPEX",
+        "descripcion": "Disfruta de la mejor música y baile reguetón.",
+        "fecha": "2024-07-02",
+        "hora": "16:00",
+        "estilo_de_baile": "Reggaeton",
+        "direccion": "Teatro T.E.A",
+        "edad_de_participantes": "Adultos",
+        "imagen": "img/Evento3 (1).jpg"
+      },
+      {
+        "nombre": "CLASE ESPECIAL",
+        "descripcion": "Muestra tus habilidades en esta clase presencial.",
+        "fecha": "2024-06-14",
+        "hora": "17:30",
+        "estilo_de_baile": "Break Dance",
+        "direccion": "Balcarce 1226",
+        "edad_de_participantes": "Juvenil",
+        "imagen": "img/evento1 (1).jpg"
+      },
+      {
+        "nombre": "DANCE PARTY NIGHT",
+        "descripcion": "Un evento vibrante de street dance con batallas llenas de energía y creatividad.",
+        "fecha": "2024-07-10",
+        "hora": "21:00",
+        "estilo_de_baile": "Street Dance",
+        "direccion": "Teatro T.E.A",
+        "edad_de_participantes": "Juvenil",
+        "imagen": "img/evento5.png"
+      },
+      {
+        "nombre": "AFROBEAT PARTY",
+        "descripcion": "Un evento vibrante de Afrobeat con ritmos intensos y movimientos energéticos.",
+        "fecha": "2024-07-06",
+        "hora": "20:00",
+        "estilo_de_baile": "Afrobeats",
+        "direccion": "Balcarce 1226",
+        "edad_de_participantes": "Adultos",
+        "imagen": "img/evento6.png"
+      },
+      {
+        "nombre": "¡EXHIBICIÓN BAILE MODERNO!",
+        "descripcion": "Evento de Arte Moderno: Una vibrante exhibición donde los asistentes bailan las últimas tendencias de TikTok, fusionando arte moderno y cultura digital.",
+        "fecha": "2024-08-20",
+        "hora": "20:00",
+        "estilo_de_baile": "Baile Moderno",
+        "direccion": "Teatro T.E.A",
+        "edad_de_participantes": "Niños",
+        "imagen": "img/evento7.png"
+      },
+      {
+        "nombre": "BATTLE DANCE",
+        "descripcion": "Batalla de Breakdance: Duelo de habilidades y creatividad entre los mejores bailarines del breakdance.",
+        "fecha": "2024-07-15",
+        "hora": "19:00",
+        "estilo_de_baile": "Break Dance",
+        "direccion": "Teatro T.E.A",
+        "edad_de_participantes": "Juvenil",
+        "imagen": "img/evento8.png"
+      },
+      {
+        "nombre": "HYPEX | PRIMERA EDICION",
+        "descripcion": "Baile y diversión toda la noche.",
+        "fecha": "2024-06-30",
+        "hora": "20:00",
+        "estilo_de_baile": "Reggaeton",
+        "direccion": "9 de Julio 1431",
+        "edad_de_participantes": "Juvenil",
+        "imagen": "img/Evento2 (1).jpg"
+      },
+      {
+        "nombre": "FUSIÓN URBANA: BAILE MODERNO",
+        "descripcion": "Sumérgete en una experiencia única de baile moderno, donde la creatividad y la innovación se fusionan en cada paso.",
+        "fecha": "2024-07-17",
+        "hora": "19:00",
+        "estilo_de_baile": "Baile Moderno",
+        "direccion": "9 de Julio 1431",
+        "edad_de_participantes": "Niños",
+        "imagen": "img/evento9.png"
+      },
+      {
+        "nombre": "HIP HOP EVOLUTION",
+        "descripcion": " Celebra la cultura del Hip Hop en un evento lleno de ritmo, expresión y pasión.",
+        "fecha": "2024-07-31",
+        "hora": "20:00",
+        "estilo_de_baile": "Hip Hop",
+        "direccion": "Teatro T.E.A",
+        "edad_de_participantes": "Juvenil",
+        "imagen": "img/evento10.png"
+      },
+      {
+        "nombre": "AFROBEAT FUSION",
+        "descripcion": "Sumérgete en la vibrante energía de la música y los movimientos de Afrobeat en un evento que celebra la diversidad cultural y la conexión a través del ritmo africano contemporáneo.",
+        "fecha": "2024-07-25",
+        "hora": "20:00",
+        "estilo_de_baile": "Afrobeats",
+        "direccion": "Teatro T.E.A",
+        "edad_de_participantes": "Adultos",
+        "imagen": "img/evento11.png"
+      },
+      {
+        "nombre": "DANCEHALL",
+        "descripcion": "¡Ven a nuestra noche de reggaetón y baila sin parar! Ritmos calientes, buena vibra y pura diversión. ¡No te lo pierdas!",
+        "fecha": "2024-08-5",
+        "hora": "22:00",
+        "estilo_de_baile": "Reggaeton",
+        "direccion": "9 de Julio 1431",
+        "edad_de_participantes": "Adultos",
+        "imagen": "img/evento13.png"
+      },
+      {
+        "nombre": "BATALLA DE FREESTYLE",
+        "descripcion": "¡Prepárate para el evento de freestyle de street dance más épico! Los mejores bailarines se enfrentarán en batallas electrizantes. ¡No te lo pierdas!",
+        "fecha": "2024-11-18",
+        "hora": "22:00",
+        "estilo_de_baile": "Street Dance",
+        "direccion": "9 de Julio 1431",
+        "edad_de_participantes": "Juvenil",
+        "imagen": "img/evento14.png"
+      },
+      {
+        "nombre": "DANZA Z",
+        "descripcion": "Presencia Hip Hop durante horas sin parar.",
+        "fecha": "2024-08-15",
+        "hora": "20:00",
+        "estilo_de_baile": "Hip Hop",
+        "direccion": "Balcarce 1226",
+        "edad_de_participantes": "Juvenil",
+        "imagen": "img/evento15.png"
+      },
+      {
+        "nombre": "URBAN GROOVE SHOWDOWN",
+        "descripcion": "Disfruta de los mejores bailarines mostrando su energía y estilo. ¡No te lo pierdas!",
+        "fecha": "2024-09-10",
+        "hora": "19:00",
+        "estilo_de_baile": "Hip Hop",
+        "direccion": "Teatro T.E.A",
+        "edad_de_participantes": "Juvenil",
+        "imagen": "img/evento16.png"
+      }
+    ]
+  }
