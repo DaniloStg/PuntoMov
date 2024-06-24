@@ -1,0 +1,192 @@
+.custom-navbar{
+    border-image: fill 0 linear-gradient(black, #4d004d);
+    /* border-image: fill 0 linear-gradient(black, #3b6198); */
+}
+.logo-img{
+    height: 50px;
+    width: auto;
+    filter: brightness(0.6); 
+}
+#principal{
+    padding: 0;
+    margin: 0;
+    border-image: fill 0 linear-gradient(black, #1F3B64);
+}
+#principal1{
+    padding: 0;
+    margin: 0;
+}
+#menu{
+    color: white;
+    
+}
+#general{
+    /* border: 2px solid firebrick; */
+    display: grid;
+    place-items: center;
+}
+
+#h5Estilo{
+    font-size: 25px;
+    padding: 2%;
+    color: white;
+    text-shadow: 2px 2px 4px  #3b6198;
+    text-align: center;   
+}
+#hr1 hr{
+    margin: 0 auto;
+    border-color: white; 
+    height: 10%; 
+    width: 60%;
+}  
+#h5ab{
+    text-align: center;
+    padding: 1%;
+    margin-bottom: 3%;
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 2px 4px  #3b6198;
+}
+#imagenprincipal{
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+}
+#descripcion{
+    padding-left: 0%;
+    margin: 0;
+}
+#h4Origen{
+    color: white;
+    text-shadow: 2px 2px 4px  #3b6198;
+    width: 100%;
+    margin-left: 2%;
+    padding-bottom: 2%;
+}
+#h6Explicacion{
+    color: #ffffff;
+    font-size: 130%;
+    width: 100%;
+    margin-left: 2%;
+}
+#divBoton{
+    margin-top: 5%;
+    display: grid;
+    place-items: center;
+}
+#h4formulario{
+    color: white;
+    text-shadow: 2px 2px 4px  #3b6198;
+}
+.boton {
+    padding: 10px 20px;
+    background-color: #10639a;
+    color: white;
+    text-shadow: 2px 2px 4px  #3b6198;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    opacity: .5;
+}
+.boton:hover{
+    opacity: 1;
+    transition-duration: 1s;
+}
+#horarios{
+    margin-top: 5%;
+}
+#horariosPresenciales, #horariosVirtuales{
+    text-align: center;
+    color: #0cb7ac; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px  #3b6198;
+}
+#horariosVirtuales{
+    margin-top: 2%;
+}
+#hor{
+    color: #0ed1c4;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 300; 
+    font-size: 30px;
+}
+.ulPresencial, .ulVirtual{
+    font-size: 120%;
+    text-align: center;
+    list-style: none;
+    color: rgb(199, 198, 198);
+    text-shadow: 2px 2px 4px  #3b6198;
+}
+.liPresencial, .liVirtual{
+    display: inline-block;
+    margin: 2% 5% 0 5%;
+}
+#profesores{
+    margin: 3% 0;
+    text-align: center;
+    color: black;
+}
+#ulProfesores{
+    color: black;
+    list-style: none;
+    display: grid;
+    place-items: center; 
+    margin-bottom: 5%;
+}
+.liFotoProfesor{
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 120px; 
+    height: 100px;  
+}
+.liNombreProfesor{
+    font-size: 95%;
+}
+#informacionPie{
+    padding: 1%;
+    display: grid;
+    place-items: center;
+    font-size: 120%;
+}
+.contacto{
+    display: inline-block;
+}
+#pieDePagina{
+    color: white;
+    background-color: #2A2828;
+}
+#redes{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    font-size: 110%;
+}
+#instagram{
+    text-decoration: none;
+    color: rgb(208, 61, 208);
+}
+#whatsapp{
+    text-decoration: none;
+    color: green;
+}
+#facebook{
+    text-decoration: none;
+    color: rgb(0, 25, 254);
+}
+#youtube{
+    text-decoration: none;
+    color: red;
+}
+.redesLista{
+    display: inline-block;
+    margin: 1%;
+}
+hr{
+    width: 50%;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+}
