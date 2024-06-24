@@ -20,7 +20,7 @@ switch(consulta){
     case "consulta":
         document.getElementById("clas").innerHTML = '';
         agrega = '<label for="textoComentario">Agregar Comentario:</label>';
-        agrega += '<textarea id="textoComentario" name="textoComentario" pattern="[A-Za-z]{2,200}" class="form-control" required title="No puede estar vacío"></textarea>';
+        agrega += '<textarea id="textoComentario" name="textoComentario" pattern="[A-Za-z0-9\s]{2,200}" class="form-control" required title="No puede estar vacío"></textarea>';
         document.getElementById("consulta").innerHTML = agrega;
         break;
 
