@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('eventos.json')
+    fetch('Json/eventos.json')
         .then(response => response.json())
         .then(data => {
             mostrarEventos(data.eventos);
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function aplicarFiltros() {
-      fetch('eventos.json')
+      fetch('Json/eventos.json')
           .then(response => response.json())
           .then(data => {
               const estiloSeleccionado = document.getElementById('selectEstiloBaile').value;
