@@ -130,7 +130,7 @@
     color: black;
 }
 #ulProfesores{
-    color: black;
+    color: white;
     list-style: none;
     display: grid;
     place-items: center; 
