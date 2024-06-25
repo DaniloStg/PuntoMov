@@ -123,7 +123,7 @@
     text-shadow: 2px 2px 4px  #3b6198;
 }
 #ulProfesores{
-    color: black;
+    color: white;
     list-style: none;
     display: grid;
     place-items: center; 
