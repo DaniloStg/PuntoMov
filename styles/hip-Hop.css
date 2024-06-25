@@ -93,8 +93,6 @@
     transition-duration: 1s;
 }
 #horarios{
-    /* border-image: fill 0 linear-gradient(#1F3B64, #3b6198); */
-    /* border-image: fill 0 linear-gradient(#1F3B64, #2e4c79); */
     margin-top: 5%;
 }
 #horariosPresenciales, #horariosVirtuales{
@@ -127,7 +125,7 @@
     text-shadow: 2px 2px 4px  #3b6198;
 }
 #ulProfesores{
-    color: black;
+    color: white;
     list-style: none;
     display: grid;
     place-items: center; 
