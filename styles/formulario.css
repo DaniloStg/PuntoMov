@@ -14,6 +14,9 @@ label{
 }
 body{
     background-color: rgb(60, 53, 53);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
 }
 .informacion{
     margin-top: 2%;
@@ -70,4 +73,10 @@ ul{
 .redesLista{
     display: inline-block;
     margin: 1%;
+}
+article{
+    flex: 1; 
+}
+footer {
+    margin-top: auto;
 }
