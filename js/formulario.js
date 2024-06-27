@@ -76,7 +76,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horarioReggaeton2" name="horariosReggaeton" value="miercoles15Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horarioReggaeton2">Niños | Miercoles | 18:00Hs a 20:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horarioReggaeton2">Niños | Miércoles | 18:00Hs a 20:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -127,7 +127,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horarioafroBeats2" name="horariosafroBeats" value="miercoles15Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horarioafroBeats2">Niños | Miercoles | 14:00Hs a 16:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horarioafroBeats2">Niños | Miércoles | 14:00Hs a 16:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -135,7 +135,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horarioafroBeats3" name="horariosafroBeats" value="viernes18Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horarioafroBeats3">Juvenil-Adulto | Jueves | 14:00Hs a 16:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horarioafroBeats3">Juvenil-Adulto | Viernes | 14:00Hs a 16:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '</div>';
@@ -178,7 +178,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariostreetDance2" name="horariosstreetDance" value="miercoles15Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariostreetDance2">Niños | Miercoles | 20:00Hs a 22:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horariostreetDance2">Niños | Martes | 20:00Hs a 22:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -186,7 +186,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariostreetDance3" name="horariosstreetDance" value="viernes18Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariostreetDance3">Juvenil-Adulto | Jueves | 16:00Hs a 18:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horariostreetDance3">Juvenil-Adulto | Miércoles | 16:00Hs a 18:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '</div>';
@@ -221,7 +221,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariobreakDance1" name="horariosbreakDance" value="lunes10Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariobreakDance1">Juvenil-Adulto | Lunes | 14:00Hs a 16:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horariobreakDance1">Juvenil-Adulto | Martes | 14:00Hs a 16:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -229,7 +229,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariobreakDance2" name="horariosbreakDance" value="miercoles15Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariobreakDance2">Niños | Miercoles | 18:00Hs a 20:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horariobreakDance2">Niños | Jueves | 18:00Hs a 20:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -237,7 +237,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariobreakDance3" name="horariosbreakDance" value="viernes18Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariobreakDance3">Juvenil-Adulto | Jueves | 16:00Hs a 20:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horariobreakDance3">Juvenil-Adulto | Viernes | 16:00Hs a 20:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '</div>';
@@ -248,7 +248,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariobreakDance4" name="horariosbreakDance" value="lunes10Virtual" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariobreakDance4">Juvenil-Adulto | Martes | 10:00Hs a 12:00Hs (Virtual)</label><br>';
+            agrega += '<label for="horariobreakDance4">Juvenil-Adulto | Lunes | 10:00Hs a 12:00Hs (Virtual)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -256,7 +256,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariobreakDance5" name="horariosbreakDance" value="martes15Virtual" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariobreakDance5">Niños | Viernes | 12:00Hs a 14:00Hs (Virtual)</label><br>';
+            agrega += '<label for="horariobreakDance5">Niños | Miércoles | 12:00Hs a 14:00Hs (Virtual)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '</div>';
@@ -272,7 +272,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horarioModerno1" name="horariosModerno" value="lunes10Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horarioModerno1">Juvenil-Adulto | Lunes | 16:00Hs a 18:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horarioModerno1">Juvenil-Adulto | Martes | 16:00Hs a 18:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -280,7 +280,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horarioModerno2" name="horariosModerno" value="miercoles15Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horarioModerno2">Niños | Miercoles | 14:00Hs a 16:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horarioModerno2">Niños | Jueves | 14:00Hs a 16:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -288,7 +288,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horarioModerno3" name="horariosModerno" value="viernes18Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horarioModerno3">Juvenil-Adulto | Jueves | 18:00Hs a 20:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horarioModerno3">Juvenil-Adulto | Viernes | 18:00Hs a 20:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '</div>';
@@ -299,7 +299,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horarioModerno4" name="horariosModerno" value="lunes10Virtual" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horarioModerno4">Juvenil-Adulto | Martes | 10:00Hs a 12:00Hs (Virtual)</label><br>';
+            agrega += '<label for="horarioModerno4">Juvenil-Adulto | Lunes | 10:00Hs a 12:00Hs (Virtual)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -307,7 +307,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horarioModerno5" name="horariosModerno" value="martes15Virtual" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horarioModerno5">Niños | Viernes | 12:00Hs a 14:00Hs (Virtual)</label><br>';
+            agrega += '<label for="horarioModerno5">Niños | Miércoles | 12:00Hs a 14:00Hs (Virtual)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '</div>';
@@ -323,7 +323,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariohipHop1" name="horarioshipHop" value="lunes10Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariohipHop1">Juvenil-Adulto | Lunes | 18:00Hs a 20:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horariohipHop1">Juvenil-Adulto | Martes | 18:00Hs a 20:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -331,7 +331,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariohipHop2" name="horarioshipHop" value="miercoles15Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariohipHop2">Niños | Miercoles | 16:00Hs a 18:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horariohipHop2">Niños | Jueves | 16:00Hs a 18:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -339,7 +339,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariohipHop3" name="horarioshipHop" value="viernes18Presencial" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariohipHop">Juvenil-Adulto | Jueves | 20:00Hs a 22:00Hs (Presencial)</label><br>';
+            agrega += '<label for="horariohipHop">Juvenil-Adulto | Viernes | 20:00Hs a 22:00Hs (Presencial)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '</div>';
@@ -350,7 +350,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariohipHop" name="horarioshipHop" value="lunes10Virtual" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariohipHop4">Juvenil-Adulto | Martes | 10:00Hs a 12:00Hs (Virtual)</label><br>';
+            agrega += '<label for="horariohipHop4">Juvenil-Adulto | Lunes | 10:00Hs a 12:00Hs (Virtual)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '<div class="row">';
@@ -358,7 +358,7 @@ function elegirHorario() {
             agrega += '<input type="radio" id="horariohipHop5" name="horarioshipHop" value="martes15Virtual" required>';
             agrega += '</div>';
             agrega += '<div class="col-11">';
-            agrega += '<label for="horariohipHop5">Niños | Viernes | 12:00Hs a 14:00Hs (Virtual)</label><br>';
+            agrega += '<label for="horariohipHop5">Niños | Miércoles | 12:00Hs a 14:00Hs (Virtual)</label><br>';
             agrega += '</div>';
             agrega += '</div>';
             agrega += '</div>';
